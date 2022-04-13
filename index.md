@@ -1,4 +1,4 @@
-#  <center> <font face="微软雅黑" color=gray size=5>Jiamin Chen</font> </center>
+#  <center> <font face="微软雅黑" color=white size=5>Jiamin Chen</font> </center>
 
 <div align=center> <img src="pic/photo.jpg" height="25%" width="25%"/>  </div>
 
