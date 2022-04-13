@@ -1,4 +1,4 @@
-## <center> <font face="微软雅黑" color=black size=0.001>Jiamin Chen</font><br></center><div align=center> <img src="pic/photo.jpg" height="25%" width="25%"/>  </div>
+## <center> <font face="微软雅黑" color=white size=0.001>Jiamin Chen</font><br></center><div align=center> <img src="pic/photo.jpg" height="25%" width="25%"/>
 
 
 ### About me
